@@ -1,0 +1,18 @@
+28 June 23
+
+Questions of Business Analytics 
+
+Q.1  Construct e r diagram where a rent ,payment made by a person to the railways hotel .
+
+
+
+
+
+
+
+
+
+
+
+
+Q.2 Draw a e r diagram a patient admitted in icu and done transcation by health insurance policy in the hospital.

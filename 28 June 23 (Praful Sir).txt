@@ -1,0 +1,7 @@
+28 June 23 
+sub:- Praful sir
+Define:-
+
+Dataframe:- Whenever there is a scenario that complinses multiple attributes at a time .
+Then the data structure we follow is called dataframe.
+most probably when we have 2 D data that data structure is nothing but a data.

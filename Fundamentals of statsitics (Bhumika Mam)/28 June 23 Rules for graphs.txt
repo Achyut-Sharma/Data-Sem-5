@@ -1,0 +1,61 @@
+28 June 23
+Fundamentals of Statistics:-
+
+Rules for Statistics:-
+Where and when to use different types of graphs while analysis:-
+
+1 Line chart:-   When simple or Discrete data is given.
+
+2. Bar Graph:- Used when inclusive class series is given.
+
+3. Histogram graph:- Used when exclusive series is given.
+
+4. Pie Chart:-  Used for percentage or in ratio.
+
+5. Frequency Polygon:- Used when in share market it touches both starting and ending points 
+and between them they are mid points.
+
+6. Ogive Graph:- Used in cumulative frequency chart.
+
+
+Cumulative frequency is sum of frequency of a class.
+
+eg:-
+                frequency                      c.f(sum of frequency)
+0-10    2                                        2 6 12 20 23
+10-20    4
+20-30        6
+30-40          8
+40-50           3
+
+
+
+
+
+
+ogive 
+
+1 less than
+
+less than 10  2
+less than 20   6
+less than 30    12
+less than 
+2 more than 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

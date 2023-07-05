@@ -1,0 +1,7 @@
+for classes in statistics 
+
+min class 6
+
+max class 8
+
+but if asked particularly about a class in exam so perform accordingly.
