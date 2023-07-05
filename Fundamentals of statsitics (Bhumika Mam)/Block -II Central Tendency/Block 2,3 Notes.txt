@@ -1,0 +1,23 @@
+Cashy (Scorey) Block 2,3 for exams
+
+Central Tendency /Dispension
+
+Block 2
+1 Mean                                    
+2 Median                                   
+3 Mode                                         
+4 Quartiles
+5deciles
+6percentiles
+7geometric mean
+8harmonic mean
+
+Block 3
+
+1 Range
+2 Mean deviation
+3 Q.D 
+4 D.D
+5 P.D
+Standard Deviation
+

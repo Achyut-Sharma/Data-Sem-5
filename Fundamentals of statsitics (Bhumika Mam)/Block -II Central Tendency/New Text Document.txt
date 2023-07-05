@@ -1,0 +1,22 @@
+Block 2
+
+Central Tendency
+
+
+* Two types of middle values:-
+
+1 Mathematical
+
+(i)mean
+(ii)harmonic mean
+(iii)Geomentric mean.
+
+
+2.Positional 
+
+(i)mean
+(ii)mode
+(iii)quartiles
+(iv)percentiles
+(v)deciles.
+
