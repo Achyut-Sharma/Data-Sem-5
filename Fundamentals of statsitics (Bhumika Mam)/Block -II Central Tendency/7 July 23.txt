@@ -1,0 +1,10 @@
+* Median:-
+
+1 When simple data obs. is given
+
+ex:- 9,7,5,7,5,4,7
+Step 1:-
+
+arrange it in ascending order.
+4,5,5,7,7,7,9
+

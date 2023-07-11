@@ -20,3 +20,15 @@ Central Tendency
 (iv)percentiles
 (v)deciles.
 
+11 July 23
+
+
+
+Mode :-
+It is the highest frequency or hightest data when simple obs. are given 
+
+ex:- 
+
+
+
+

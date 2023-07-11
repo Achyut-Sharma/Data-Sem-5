@@ -1,0 +1,48 @@
+packages to visulaize datasets
+
+matplotlib
+
+seaborn
+
+seaborn is used for visualization of datasets. 
+
+import seaborn as sns
+
+sns.bar(x=[col1],y=[col2])
+
+here bar is type of graph convert col1 into series and according to coordinates it maps them into graph same for  y coordinates.
+
+At a time maximum 3 coordinates ca be in a plot.
+
+
+Matplotlib
+
+import matplotlib.pyplot as plt
+
+here "pyplot" is sub package 
+
+
+
+** How to interpretation Of Pairplot:-
+
+(1)Pairplot compare all the numeric columns 
+
+eg:
+
+col1,col2,col3
+
+convert them into matrix form
+
+col1  col2  col3
+col1xcol1 col2xcol1  col3xcol1
+col1xcol2  col2xcol2 col3xcol2
+col1xcol3   col2xcol3 col3xcol3
+
+
+
+-> It helps to show relation between Numeric columns.
+
+-> It shows linear relation.  (Line form)
+->It show non-Linear relation. (Non line form)
+->It shows density of the datapoints. (space between data)
+->It will show the nature of the column or Data.

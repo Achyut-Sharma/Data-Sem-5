@@ -6,4 +6,5 @@ INSERT INTO Student (id, name, age)VALUES (1, 'John Doe', 25),(2, 'Jane Smith', 
 -- Use BIG INT For Mobile Numbers.
 ALTER TABLE Student ADD Roll_No INT;
 SELECT * FROM Student;
-
+TRUNCATE Student;   -- TRUNCATE Command deletes all data present in a table except Column Names.
+SELECT *  FROM Student;
