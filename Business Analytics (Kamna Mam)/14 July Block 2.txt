@@ -1,0 +1,17 @@
+add enc=v of c dirve program files mysql/mysql server8.0/bin
+
+Then write in cmd "mysql --version" if it shows version so it's write or add it once again and refresh it .
+
+Then write mysql -u root -p
+then enter password of root user or
+you want to use any another user so write its passoword
+
+then open jupyter notebook by writing in start of windows jupyter will open then open new cmd window and check python and pip version if it shows version so python is installed and works correctly in it.
+
+then let it be open python idle or python if it is open in cmd then it's ok.
+
+if pyhton/connector is added in mysql then to install connector in idle by writing command 
+"pip install mysql-connector" in normal cmd not python cmd.
+
+then in python idle write command "import mysql.connector" if it shows traceback error then connector is not installed in it so in cmd write command "mysql-connector-python" to install mysql connector.
+if after writing  "import mysql.connector" it shows next line then there is no error.

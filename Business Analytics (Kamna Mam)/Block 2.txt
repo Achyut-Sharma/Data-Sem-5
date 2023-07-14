@@ -1,0 +1,3 @@
+1 Connecting Mysql with python 
+ Check whether pyhton with 3.11 or 3.14 version
+anaconda and mysql router , odbc ,connecter python ,java,shell is there 

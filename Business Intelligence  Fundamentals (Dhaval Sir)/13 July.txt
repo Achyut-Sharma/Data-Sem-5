@@ -1,0 +1,9 @@
+Disadvanatges of vlookup & Hlookup:-
+
+it always find right hand side data not from left hand side.
+
+To overcome this problem we use
+
+Index Match:-
+
+It is the intersection of rows and columns in a table and by taking columns array to give exact result as vlookup and hlookup were unable to do.
