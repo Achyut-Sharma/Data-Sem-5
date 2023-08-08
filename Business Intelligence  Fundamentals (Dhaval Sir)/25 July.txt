@@ -1,0 +1,15 @@
+Power Query Editor is used to perform joins in table formed in excel sheet just like as in python and sql.
+also used for un filtered data like null values and duplicate values.
+
+
+to perfrom joins in power query editor there is one condition that their headers(Column Names) should be same.
+
+append queries join table vertically .
+merge queries joins  table horizonatlly .
+
+click merge queries and select tables and click join type and then select column with primary and secondary column such as for table 1and table 2 Student_id is the primary and foreign key so select in dialog box and then click ok so it gives us the output of that join.
+
+after doing all work click on "close and load " on left side so it save and load sheets to the previous excel sheet as saved .
+
+
+after wards when ever we want to go back to power query editor on same excel workbook so go to data click "get data" and click "launch power quer editor" 

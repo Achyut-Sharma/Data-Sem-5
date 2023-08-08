@@ -1,0 +1,6 @@
+Praful Sir Google Colab
+31 July 
+after connect to colab 
+upload bank analysis py file to google drive colab folder and then click runtime on title bar and clcik run all to run all codes in kernel
+
+to convert your own bank statement download it in pdf and click pdf to excel website upload pdf and convert it 

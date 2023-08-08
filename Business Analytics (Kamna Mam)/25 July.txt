@@ -1,0 +1,3 @@
+open "anaconda power shell" and write 
+conda info :- to get information about anaconda server details 
+then write "jupyter notebook" to open it.

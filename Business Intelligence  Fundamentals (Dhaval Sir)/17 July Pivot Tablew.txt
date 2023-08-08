@@ -1,0 +1,25 @@
+if pivot table fields are unavaialble so click to pivotTale Analyze and click field list
+
+There are 4 categories
+rows
+columns
+values
+filter
+
+Always put numeric data in values category.
+
+In rows or columns we took team in them bcoz we want unique values .
+
+Put cost in cr or $ in values for numeric data and we will get unique vale of cost for each team
+
+if we don't grand total as we all wanted only cost of each team so select all sum cost and go to design just beside pivot analyze go to grand totals ad click turn off rows amd columns
+
+now to set table in desc according to cost of team
+click row labels list box more filter options clcik desc according to cost .
+
+
+for inc.desc decimal of cost click on cost then go home  then click to desc decimal button
+
+then q2
+
+go to raw data same create new workbbook 

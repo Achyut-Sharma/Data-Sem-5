@@ -1,0 +1,22 @@
+For question 5
+
+go to raw data select any head cell and click to sort and filter and add filter to each head cell or use shortcut shit + ctrl +l add filter cost in cr in desc order.
+
+q6
+add donation head cell besides end of raw data and use if condition and select largest cost >9,cell no *8%,0)
+
+so it will check cost in cr >9 cr if yes,then cost in cr *8% if cond. is falsethen,0)
+
+q7
+
+create pivot table and put cost in cr in values and team in  rows then filter in desc order 
+
+
+
+
+
+
+GO TO MICROSOFT STORE WRITE POWER BI DESKTOP THEN DOWNLOAD
+
+shortcut to open power bi by write search with shortcut
+key windows +r write "shell:appsfolder" then press ok then it will show all application sthen search power bi desktop right click and click create shortcut dialog box opens then press yes then check by writing it in search it's shortcut is created.

@@ -1,0 +1,6 @@
+* Types of Joins in sql:-
+1 Inner
+2 Outer
+3 Right
+4 Left
+5 Full 
